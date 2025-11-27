@@ -1,4 +1,4 @@
-# Projeto-Final-EFIJOTA
+# Projeto-Final
 ## Para criar o ambiente virtual
 ```bash
 python -m venv .venv
